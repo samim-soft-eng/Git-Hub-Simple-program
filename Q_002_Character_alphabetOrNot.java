@@ -21,9 +21,9 @@ public class Q_002_Character_alphabetOrNot {
         char ch = sc.next().charAt(0);
 
         if(Alphabet_02(ch)){
-            System.out.println("The Character is a Alphabet");
+            System.out.println("The Character is a Alphabet.....");
         }else{
-            System.out.println("The Character is not a Alphabet");
+            System.out.println("The Character is not a Alphabet.....");
         }
     }
 }
